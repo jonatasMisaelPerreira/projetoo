@@ -1,0 +1,3 @@
+class minha_outra_pclass{
+		void MetodoMalandro();
+}
